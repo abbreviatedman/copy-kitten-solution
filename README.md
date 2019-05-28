@@ -1,3 +1,3 @@
 # copy-kitten-solution
 
-One of probably many solutions to [https://github.com/abbreviatedman/copy-kitten](Copy Kitten).
+One of probably many solutions to [Copy Kitten](https://github.com/abbreviatedman/copy-kitten).
