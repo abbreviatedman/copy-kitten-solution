@@ -1,30 +1,25 @@
-* { 
-	margin: 0;
-	box-sizing: border-box;
-}
-
-ul {
+#header {
 	text-align: center;
 	padding: 10px 0;
 	margin: 30px 0 0;  
-	background: #404049  ;
+	background: #404049;
 	letter-spacing: 1.9px; 
 }
 
-a, a:visited {
+ul a {
+	padding: 15px;
+}
+
+ul a, ul a:visited {
 	color: #d1cbcd;
 	text-decoration: none;
 }
 
-a:hover {
+ul a:hover {
 	color:#13af98;
 	transition: all 500ms ease-in-out;  
 }
 
 li {
 	display: inline;
-}
-
-a {
-	padding: 15px;
 }
